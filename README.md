@@ -1,7 +1,5 @@
-
-![Uploading 24_12_26_1830.png…]()
-
-## Prérequis
+<img width="2519" height="1351" alt="24_12_26_1830" src="https://github.com/user-attachments/assets/40d1e770-cc94-4102-8502-eaf8b6bb9945" />
+## Prérequis!
 - Compte NewsAPI.org et clé API
 
 ## Démarrage rapide
