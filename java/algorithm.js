@@ -1,5 +1,5 @@
 import { AddPosts } from "./posts.js";
-const apiKey = process.env.ApiKey; //api key from https://newsapi.org/ 
+const apiKey = "YOUR_API_KEY"; //api key from https://newsapi.org/
 
 let currentCategory = "All";
 let currentPage = 1;
@@ -72,4 +72,5 @@ window.addEventListener("scroll", () => {
 });
 
 export { loadNews };
+
 
